@@ -1,0 +1,27 @@
+tur,id,ad,takim,ozellik1,ozellik2,ozellik3,dayaniklilik,enerji,ozel_yetenek
+Futbolcu,F1,Messi,Inter Miami,95,92,94,85,100,Legend
+Futbolcu,F2,Ronaldo,Al Nassr,93,90,91,87,100,Finisher
+Futbolcu,F3,Neymar,Santos,91,89,90,82,100,Clutch Player
+Futbolcu,F4,Mbappe,Real Madrid,94,88,96,86,100,Fastest
+Futbolcu,F5,Haaland,Man City,92,84,95,88,100,Finisher
+Futbolcu,F6,De Bruyne,Napoli,88,94,87,84,100,Veteran
+Futbolcu,F7,Salah,Liverpool,90,86,91,83,100,Captain
+Futbolcu,F8,Modric,AC Milan,87,93,85,81,100,Legend
+
+Basketbolcu,B1,Curry,Warriors,91,99,95,80,100,Clutch Player
+Basketbolcu,B2,LeBron,Lakers,94,88,89,90,100,Captain
+Basketbolcu,B3,Durant,Suns,92,90,91,84,100,Legend
+Basketbolcu,B4,Doncic,Mavericks,90,87,88,86,100,Finisher
+Basketbolcu,B5,Jokic,Nuggets,93,85,90,91,100,Veteran
+Basketbolcu,B6,Irving,Mavericks,88,89,92,79,100,Clutch Player
+Basketbolcu,B7,Tatum,Celtics,89,90,87,83,100,Defender
+Basketbolcu,B8,Booker,Suns,87,88,90,82,100,Captain
+
+Voleybolcu,V1,Ngapeth,France,90,84,92,82,100,Veteran
+Voleybolcu,V2,Leon,Poland,92,86,94,84,100,Defender
+Voleybolcu,V3,Nimir,Netherlands,91,83,95,85,100,Finisher
+Voleybolcu,V4,Bruno,Brazil,88,87,86,81,100,Captain
+Voleybolcu,V5,Anderson,USA,89,85,90,83,100,Legend
+Voleybolcu,V6,Ishikawa,Japan,87,82,88,80,100,Clutch Player
+Voleybolcu,V7,Juantorena,Italy,90,86,91,84,100,Veteran
+Voleybolcu,V8,Christenson,USA,86,88,85,82,100,
